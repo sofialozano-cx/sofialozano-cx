@@ -17,13 +17,13 @@
 
 ## About Me
 
-I'm a customer-focused professional with hands-on experience in **high-volume customer service, CRM platforms, omnichannel operations, relationship management, and operational support**, currently pursuing a degree in **Software Engineering**.
+I'm a customer-focused professional with hands-on experience in **high-volume customer service, CRM platforms, omnichannel operations, relationship management and operational support**, currently pursuing a degree in **Software Engineering**.
 
 My background combines customer-facing experience with an increasingly technical skill set. I have worked in environments handling approximately **30–50 customers per day**, supporting customer journeys across in-person and digital channels while tracking commercial and operational performance.
 
-Professionally, I have worked with **Salesforce, Microsoft Dynamics 365, HubSpot, and Zendesk**, alongside spreadsheets, reporting, customer data organization, post-sales workflows, and operational processes.
+Professionally, I have worked with **Salesforce, Microsoft Dynamics 365, HubSpot and Zendesk**, alongside spreadsheets, reporting, customer data organization, post-sales workflows and operational processes.
 
-My software engineering studies expand this foundation into technology and technical problem-solving. I am building hands-on projects around **technical support, APIs, support analytics, troubleshooting, CRM operations, and SaaS customer experience**.
+My software engineering studies expand this foundation into technical problem-solving. This portfolio provides hands-on evidence across **SaaS troubleshooting, REST APIs, support analytics, CRM/lifecycle operations, incident response and knowledge management**.
 
 ### Open to
 
@@ -39,155 +39,93 @@ My software engineering studies expand this foundation into technology and techn
 | **CRM** | Salesforce, HubSpot, Microsoft Dynamics 365 and Zendesk |
 | **Omnichannel** | In-person, WhatsApp, e-commerce and digital post-sales workflows |
 | **Operations** | Order workflows, customer data organization, reporting and process support |
-| **Performance** | Customer volume, conversion, average ticket and commercial performance indicators |
-| **Technical Support** | Hands-on portfolio work in troubleshooting, APIs, HTTP, authentication, webhooks and SaaS support workflows |
+| **Technical Support** | Portfolio work in troubleshooting, APIs, HTTP, authentication, webhooks, escalation and documentation |
+| **Support Operations** | KPI analysis, incident workflows, knowledge management, runbooks and process improvement |
 | **Languages** | Portuguese (Native), English (Advanced), Spanish (Intermediate), Italian (Basic) |
-
----
-
-## CRM, Support & Operations Tools
-
-<div align="center">
-
-![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Zendesk](https://img.shields.io/badge/Zendesk-Support-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Microsoft-Dynamics%20365-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</div>
-
-**Operational focus:** Customer Relationship Management · Ticket Organization · Post-Sales · Customer Data · Reporting · Omnichannel Support · Process Improvement
 
 ---
 
 ## Technical Stack
 
-### Languages & Web
+**Development:** `Java` · `JavaScript` · `TypeScript` · `Node.js` · `HTML` · `CSS` · `C++`
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,html,css,cpp" alt="Java, JavaScript, TypeScript, Node.js, HTML, CSS and C++" />
-</div>
+**Technical Support:** `REST APIs` · `HTTP` · `JSON` · `API Authentication` · `Webhooks` · `Git` · `GitHub` · `Technical Documentation`
 
-### Technical Support & Workflow
+**CRM & Operations:** `Salesforce` · `HubSpot` · `Microsoft Dynamics 365` · `Zendesk` · `Reporting` · `Omnichannel Support`
 
-`REST APIs` · `HTTP` · `JSON` · `API Authentication` · `Webhooks` · `Git` · `GitHub` · `Technical Documentation`
-
-> Professional CRM experience and portfolio/lab experience are intentionally distinguished throughout this profile.
+> Professional CRM/customer-service experience and portfolio/lab technical experience are intentionally distinguished throughout this profile.
 
 ---
 
-## Featured Portfolio
+# Featured Portfolio · 6 Projects Published
 
-<details open>
-<summary><b>Technical Support Lab</b> — SaaS troubleshooting & investigation</summary>
-<br/>
+## 01 · Technical Support Lab
+**SaaS troubleshooting & structured investigation**
 
-A hands-on portfolio lab covering realistic SaaS support scenarios: API authentication, webhook delivery, browser sessions, rate limiting, CSV validation and role-based permissions.
+Six documented fictional investigations covering API authentication, webhook delivery, browser sessions, rate limiting, CSV validation and RBAC. Demonstrates triage, reproduction, hypothesis testing, root-cause reasoning, escalation and customer communication.
 
-| Area | Scope |
+**Status:** ✅ Active · 6 cases published  
+**[View Repository →](https://github.com/sofialozano-cx/technical-support-lab)**
+
+---
+
+## 02 · Support Operations Analytics
+**SQL · Support KPIs · Interactive dashboard**
+
+Synthetic 60-ticket SaaS support dataset analyzed across CSAT, First Response Time, Resolution Time, SLA Compliance, Escalation Rate and Reopen Rate, with SQL analysis and a responsive operational dashboard.
+
+**Status:** ✅ Live portfolio project  
+**[Live Dashboard →](https://support-operations-analytics.vercel.app/)** · **[Repository →](https://github.com/sofialozano-cx/support-operations-analytics)**
+
+---
+
+## 03 · SaaS Support Operations Case Study
+**Incident response · Technical escalation · Customer communication**
+
+End-to-end fictional SEV-2 webhook degradation case showing how independent customer reports become a structured multi-customer investigation, Engineering escalation, incident workflow, customer communication and post-incident improvement plan.
+
+**Status:** ✅ Live portfolio project  
+**[Live Case Study →](https://saas-support-operations-case-study.vercel.app/)** · **[Repository →](https://github.com/sofialozano-cx/saas-support-operations-case-study)**
+
+---
+
+## 04 · CRM & Customer Lifecycle
+**Segmentation · Retention · Lifecycle automation**
+
+Fictional B2B SaaS Lifecycle Operations workspace connecting CRM records, lifecycle stages, health, engagement and account value to segmentation, retention and next-best actions. Covers Lead → Activated → Active → At Risk → Churned → Reactivated.
+
+**Status:** ✅ Live portfolio project  
+**[Live Workspace →](https://crm-customer-lifecycle.vercel.app/)** · **[Repository →](https://github.com/sofialozano-cx/crm-customer-lifecycle)**
+
+---
+
+## 05 · API Support Playground
+**Interactive REST API troubleshooting**
+
+Developer Support lab for constructing simulated GET/POST/PATCH/DELETE requests and diagnosing authentication, authorization, JSON validation, rate limits, webhook and platform-error scenarios. Includes six evidence-based troubleshooting challenges.
+
+**Status:** ✅ Live portfolio project  
+**[Live Playground →](https://api-support-playground.vercel.app/)** · **[Repository →](https://github.com/sofialozano-cx/api-support-playground)**
+
+---
+
+## 06 · Knowledge Base & Incident Management
+**Knowledge operations · Incident response · Runbooks**
+
+Fictional Arcway Cloud Support Operations workspace combining a searchable Customer/Internal knowledge base, incident center, customer-facing service status, SEV-1 → SEV-4 framework, runbooks, Engineering escalation guidance and post-incident review.
+
+| Area | Evidence |
 |---|---|
-| **Focus** | Technical troubleshooting and structured investigation |
-| **Topics** | HTTP, APIs, authentication, webhooks, browser diagnostics, RBAC, data validation |
-| **Support Practice** | Triage, reproduction, hypothesis testing, root-cause analysis, escalation and customer communication |
-| **Cases** | 6 documented investigations + reusable Support/Engineering templates |
-| **Status** | ✅ Active · 6 cases published |
+| **Knowledge** | Searchable customer-facing + internal articles, tags and support guidance |
+| **Incident** | Fictional SEV-2 INC-117 from detection through validated recovery |
+| **Status** | Service health and customer-facing incident updates |
+| **Severity** | Impact-based SEV-1 → SEV-4 classification |
+| **Runbooks** | Repeatable technical-support investigation workflows |
+| **Post-Incident** | PIR, corrective actions and knowledge feedback loop |
+| **Application** | Responsive React + TypeScript Support Operations workspace |
 
-**[→ View Technical Support Lab](https://github.com/sofialozano-cx/technical-support-lab)**
-
-</details>
-
-<details open>
-<summary><b>Support Operations Analytics</b> — SQL, support KPIs & interactive dashboard</summary>
-<br/>
-
-A synthetic SaaS support dataset analyzed to identify operational bottlenecks and translate support metrics into prioritization decisions. The project includes SQL analysis and a responsive interactive dashboard deployed on Vercel.
-
-| Area | Scope |
-|---|---|
-| **Metrics** | CSAT, First Response Time, Resolution Time, SLA Compliance, Escalation Rate, Reopen Rate |
-| **Methods** | SQL, segmentation, KPI interpretation, operational diagnosis and data visualization |
-| **Dashboard** | Dynamic filters by category, channel and priority + context-aware operational signals |
-| **Evidence** | 60-ticket synthetic dataset, SQL queries, documented findings and live dashboard |
-| **Status** | ✅ Live portfolio project |
-
-**[→ Live Dashboard](https://support-operations-analytics.vercel.app/)** · **[View Repository →](https://github.com/sofialozano-cx/support-operations-analytics)**
-
-</details>
-
-<details open>
-<summary><b>SaaS Support Operations Case Study</b> — Incident response & technical escalation</summary>
-<br/>
-
-An end-to-end fictional B2B SaaS incident case showing how independent webhook reports become a structured multi-customer investigation, Engineering escalation, customer communication workflow and post-incident improvement plan.
-
-| Area | Scope |
-|---|---|
-| **Scenario** | SEV-2 webhook delivery degradation across multiple fictional customer accounts |
-| **Technical Support** | Scope analysis, hypothesis testing, API/auth health checks and webhook evidence |
-| **Incident Response** | Severity, timeline, linked tickets, mitigation and recovery validation |
-| **Operations** | Escalation matrix, ticket routing, customer communications, runbook and improvement plan |
-| **Application** | Responsive React + TypeScript incident operations console |
-| **Status** | ✅ Live portfolio project |
-
-**[→ Live Case Study](https://saas-support-operations-case-study.vercel.app/)** · **[View Repository →](https://github.com/sofialozano-cx/saas-support-operations-case-study)**
-
-</details>
-
-<details open>
-<summary><b>CRM & Customer Lifecycle</b> — Segmentation, retention & lifecycle automation</summary>
-<br/>
-
-A fictional B2B SaaS Lifecycle Operations workspace connecting CRM records, lifecycle stages, customer health, engagement signals and account value to segmentation, retention and next-best actions.
-
-| Area | Scope |
-|---|---|
-| **Lifecycle** | Lead → Activated → Active → At Risk → Churned → Reactivated |
-| **CRM Operations** | Customer records, health signals, owners, lifecycle stages and next-best actions |
-| **Segmentation** | High-value healthy/risk, activation opportunity, low engagement, promoters and win-back |
-| **Automation** | Trigger → Condition → Action lifecycle journeys |
-| **Retention** | Risk detection, exposed MRR, prioritization and intervention playbook |
-| **Application** | Responsive React + TypeScript Lifecycle Operations workspace |
-| **Status** | ✅ Live portfolio project |
-
-**[→ Live Workspace](https://crm-customer-lifecycle.vercel.app/)** · **[View Repository →](https://github.com/sofialozano-cx/crm-customer-lifecycle)**
-
-</details>
-
-<details open>
-<summary><b>API Support Playground</b> — Interactive API troubleshooting</summary>
-<br/>
-
-An interactive Developer Support lab for interpreting REST API evidence, constructing simulated requests and diagnosing integration failures across authentication, authorization, payload validation, rate limits, webhooks and platform errors.
-
-| Area | Scope |
-|---|---|
-| **Request Lab** | GET, POST, PATCH and DELETE with endpoints, Bearer auth, JSON bodies and response inspection |
-| **HTTP** | 200/201/204 success paths plus 400, 401, 403, 404, 422, 429 and 500 troubleshooting |
-| **Authentication** | Bearer tokens, expired/revoked credentials and authentication vs. authorization |
-| **Rate Limits** | Quotas, response headers, Retry-After and backoff guidance |
-| **Webhooks** | Event creation, delivery attempt, receiver response and failure ownership |
-| **Challenges** | 6 interactive evidence-based diagnosis scenarios with next-step and ownership reasoning |
-| **Application** | Responsive React + TypeScript Developer Support console |
-| **Status** | ✅ Live portfolio project |
-
-**[→ Live Playground](https://api-support-playground.vercel.app/)** · **[View Repository →](https://github.com/sofialozano-cx/api-support-playground)**
-
-</details>
-
-<details>
-<summary><b>Knowledge Base & Incident Management</b> — Documentation & escalation</summary>
-<br/>
-
-Customer-facing and internal support documentation covering troubleshooting guides, escalation criteria, incident communication and reusable support knowledge.
-
-| Area | Scope |
-|---|---|
-| **Documentation** | Knowledge base articles, internal notes and runbooks |
-| **Operations** | Severity, priority, escalation and incident communication |
-| **Goal** | Make support knowledge clear, scalable and reusable |
-| **Status** | Next project |
-
-</details>
+**Status:** ✅ Live portfolio project  
+**[Live Workspace →](https://knowledge-base-incident-management.vercel.app/)** · **[Repository →](https://github.com/sofialozano-cx/knowledge-base-incident-management)**
 
 ---
 
@@ -196,58 +134,23 @@ Customer-facing and internal support documentation covering troubleshooting guid
 ### Customer Service Operator · C&A Brasil
 **Feb 2025 – Apr 2025 · São Paulo, Brazil**
 
-Supported **omnichannel retail operations**, connecting customer service with e-commerce and in-store operational processes.
-
-- Used **Salesforce and Microsoft Dynamics 365** to support customer and operational workflows.
-- Organized and verified e-commerce orders for in-store pickup.
-- Routed orders to the teams responsible for product separation and inventory.
-- Supported operational spreadsheets and reporting.
-- Assisted customer-service routines and internal process organization.
-
-`Salesforce` `Dynamics 365` `Omnichannel` `E-commerce Operations` `Customer Support` `Reporting`
+Supported omnichannel retail operations connecting customer service with e-commerce and in-store processes. Used **Salesforce and Microsoft Dynamics 365**, organized and verified pickup orders, routed operational workflows and supported spreadsheets/reporting.
 
 ### Sales Associate · Ponto da Lingerie
 **Nov 2024 – Jan 2025 · São Paulo, Brazil**
 
-Worked across customer service, consultative sales, customer relationships and store operations.
-
-- Provided consultative customer service in person and through **WhatsApp**.
-- Managed customer relationships using **HubSpot CRM**.
-- Monitored commercial metrics including average ticket and conversion rate.
-- Worked toward monthly sales targets in the **R$40K–R$45K** range.
-- Supported pre-sales, post-sales and customer retention activities.
-- Assisted marketing and relationship initiatives when required.
-
-`HubSpot` `CRM` `Customer Relationships` `WhatsApp` `Pre-Sales` `Post-Sales` `Retention`
+Provided consultative service in person and through **WhatsApp**, managed relationships using **HubSpot CRM**, monitored commercial indicators and worked toward monthly sales targets in the **R$40K–R$45K** range. Supported pre-sales, post-sales and retention activities.
 
 ### Customer Service · Lupo S.A.
 **Mar 2023 – May 2023 · São Paulo, Brazil**
 
-Worked in a high-traffic retail environment combining consultative service, CRM, post-sales and operational activities.
-
-- Served approximately **30–40 customers per day**, identifying needs and recommending suitable products.
-- Tracked commercial indicators including average ticket, items per service and conversion rate.
-- Recurrently achieved monthly sales results in the **R$60K–R$70K** range.
-- Used **Salesforce** for customer registration, relationship follow-up, negotiations and post-sales.
-- Provided service in **Portuguese, English and Spanish**.
-- Supported merchandise receiving, invoice verification and product-entry controls.
-
-`Salesforce` `Customer Experience` `High-Volume Service` `Post-Sales` `Multilingual Support` `Performance Metrics`
+Served approximately **30–40 customers per day** in a high-traffic environment, used **Salesforce** for customer registration and relationship follow-up, supported post-sales and store operations, and recurrently achieved monthly sales results in the **R$60K–R$70K** range. Provided service in Portuguese, English and Spanish.
 
 ---
 
-## Education
+## Education & Languages
 
-### Software Engineering
-**Currently pursuing**
-
-My academic path strengthens the technical side of my customer-operations background through software development, programming fundamentals and technology-focused problem solving.
-
-**Current technologies:** Java · JavaScript · TypeScript · Node.js · HTML · CSS · C++
-
----
-
-## Languages
+**Software Engineering — Currently pursuing**
 
 | Language | Level |
 |---|---|
@@ -258,37 +161,24 @@ My academic path strengthens the technical side of my customer-operations backgr
 
 ---
 
-## GitHub Analytics
-
-This profile is being built around practical evidence across technical support, support analytics, CRM operations and software engineering.
-
-**Published portfolio:** Technical Support Lab · Support Operations Analytics · SaaS Support Operations Case Study · CRM & Customer Lifecycle · API Support Playground
-
----
-
-## Current Focus
+## Portfolio Status
 
 ```yaml
-learning:
-  - Technical Support Engineering
-  - REST APIs & HTTP
-  - SQL & Support Analytics
-  - CRM Operations
-
 published:
   - Technical Support Lab
   - Support Operations Analytics
   - SaaS Support Operations Case Study
   - CRM & Customer Lifecycle
   - API Support Playground
-
-building:
   - Knowledge Base & Incident Management
 
-exploring:
-  - Customer Experience + Technology
+portfolio_status: 6 / 6 core projects published
+
+focus:
+  - Technical Support
+  - Customer Experience
   - Support Operations
-  - Product & Technical Support
+  - CRM & Customer Operations
 
 open_to:
   - LATAM opportunities
@@ -297,19 +187,10 @@ open_to:
 
 ---
 
-## Connect
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sofialozano--cx-181717?style=for-the-badge&logo=github)](https://github.com/sofialozano-cx)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofie.sovanna@gmail.com)
+### Building better customer experiences through communication, operations and technology.
 
-</div>
-
----
-
-<div align="center">
-
-**Building better customer experiences through communication, operations and technology.**
+[GitHub](https://github.com/sofialozano-cx) · [Email](mailto:sofie.sovanna@gmail.com)
 
 </div>
