@@ -114,18 +114,22 @@ A synthetic SaaS support dataset analyzed to identify operational bottlenecks an
 
 </details>
 
-<details>
-<summary><b>SaaS Support Operations Case Study</b> — End-to-end support operation</summary>
+<details open>
+<summary><b>SaaS Support Operations Case Study</b> — Incident response & technical escalation</summary>
 <br/>
 
-An end-to-end case study connecting customer pain points, support data, knowledge management, escalation design and operational improvement in a fictional SaaS environment.
+An end-to-end fictional B2B SaaS incident case showing how independent webhook reports become a structured multi-customer investigation, Engineering escalation, customer communication workflow and post-incident improvement plan.
 
 | Area | Scope |
 |---|---|
-| **Business Problem** | Improve support quality and operational efficiency |
-| **Analysis** | Ticket drivers, SLA performance and root causes |
-| **Operations** | Escalation flows, knowledge management and process design |
-| **Status** | Next project |
+| **Scenario** | SEV-2 webhook delivery degradation across multiple fictional customer accounts |
+| **Technical Support** | Scope analysis, hypothesis testing, API/auth health checks and webhook evidence |
+| **Incident Response** | Severity, timeline, linked tickets, mitigation and recovery validation |
+| **Operations** | Escalation matrix, ticket routing, customer communications, runbook and improvement plan |
+| **Application** | Responsive React + TypeScript incident operations console |
+| **Status** | ✅ Live portfolio project |
+
+**[→ Live Case Study](https://saas-support-operations-case-study.vercel.app/)** · **[View Repository →](https://github.com/sofialozano-cx/saas-support-operations-case-study)**
 
 </details>
 
@@ -247,7 +251,7 @@ My academic path strengthens the technical side of my customer-operations backgr
 
 This profile is being built around practical evidence across technical support, support analytics, CRM operations and software engineering.
 
-**Published portfolio:** Technical Support Lab · Support Operations Analytics
+**Published portfolio:** Technical Support Lab · Support Operations Analytics · SaaS Support Operations Case Study
 
 ---
 
@@ -263,9 +267,10 @@ learning:
 published:
   - Technical Support Lab
   - Support Operations Analytics
+  - SaaS Support Operations Case Study
 
 building:
-  - SaaS Support Operations Case Study
+  - CRM & Customer Lifecycle
 
 exploring:
   - Customer Experience + Technology
