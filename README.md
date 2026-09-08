@@ -40,7 +40,7 @@ My software engineering studies expand this foundation into technology and techn
 | **Omnichannel** | In-person, WhatsApp, e-commerce and digital post-sales workflows |
 | **Operations** | Order workflows, customer data organization, reporting and process support |
 | **Performance** | Customer volume, conversion, average ticket and commercial performance indicators |
-| **Technical Support** | Developing hands-on expertise in troubleshooting, APIs, HTTP, JSON and SaaS support workflows |
+| **Technical Support** | Hands-on portfolio work in troubleshooting, APIs, HTTP, authentication, webhooks and SaaS support workflows |
 | **Languages** | Portuguese (Native), English (Advanced), Spanish (Intermediate), Italian (Basic) |
 
 ---
@@ -72,26 +72,27 @@ My software engineering studies expand this foundation into technology and techn
 
 `REST APIs` · `HTTP` · `JSON` · `API Authentication` · `Webhooks` · `Git` · `GitHub` · `Technical Documentation`
 
-> Technical support concepts are being developed and demonstrated through hands-on portfolio labs and case studies. Professional CRM experience and portfolio/lab experience are intentionally distinguished throughout this profile.
+> Professional CRM experience and portfolio/lab experience are intentionally distinguished throughout this profile.
 
 ---
 
 ## Featured Portfolio
 
-The projects below are being developed as practical demonstrations of the technical layer of my CX background.
-
-<details>
+<details open>
 <summary><b>Technical Support Lab</b> — SaaS troubleshooting & investigation</summary>
 <br/>
 
-A hands-on lab built around realistic support scenarios such as authentication failures, account access, integrations, API errors, webhooks, billing issues and browser-related incidents.
+A hands-on portfolio lab covering realistic SaaS support scenarios: API authentication, webhook delivery, browser sessions, rate limiting, CSV validation and role-based permissions.
 
 | Area | Scope |
 |---|---|
 | **Focus** | Technical troubleshooting and structured investigation |
-| **Topics** | HTTP, APIs, authentication, JSON, webhooks, browser diagnostics |
-| **Support Practice** | Reproduction, root-cause analysis, escalation and customer communication |
-| **Status** | In development |
+| **Topics** | HTTP, APIs, authentication, webhooks, browser diagnostics, RBAC, data validation |
+| **Support Practice** | Triage, reproduction, hypothesis testing, root-cause analysis, escalation and customer communication |
+| **Cases** | 6 documented investigations + reusable Support/Engineering templates |
+| **Status** | ✅ Active portfolio project |
+
+**[→ View Technical Support Lab](https://github.com/sofialozano-cx/technical-support-lab)**
 
 </details>
 
@@ -104,9 +105,9 @@ A simulated support dataset used to investigate operational performance and turn
 | Area | Scope |
 |---|---|
 | **Metrics** | CSAT, First Response Time, Resolution Time, SLA Compliance, Escalation Rate |
-| **Methods** | Data cleaning, analysis, KPI interpretation and reporting |
+| **Methods** | SQL, data cleaning, analysis, KPI interpretation and reporting |
 | **Goal** | Identify bottlenecks and improvement opportunities |
-| **Status** | Planned |
+| **Status** | Next project |
 
 </details>
 
@@ -253,11 +254,11 @@ Because this profile is new, meaningful repository and language analytics will b
 learning:
   - Technical Support Engineering
   - REST APIs & HTTP
-  - Support Analytics
+  - SQL & Support Analytics
   - CRM Operations
 
 building:
-  - Technical Support Lab
+  - Support Operations Analytics
   - SaaS Support Operations Portfolio
 
 exploring:
