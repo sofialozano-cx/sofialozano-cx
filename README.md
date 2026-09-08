@@ -153,18 +153,24 @@ A fictional B2B SaaS Lifecycle Operations workspace connecting CRM records, life
 
 </details>
 
-<details>
-<summary><b>API Support Playground</b> — API troubleshooting fundamentals</summary>
+<details open>
+<summary><b>API Support Playground</b> — Interactive API troubleshooting</summary>
 <br/>
 
-Practical exercises designed around the API knowledge commonly used in technical support environments.
+An interactive Developer Support lab for interpreting REST API evidence, constructing simulated requests and diagnosing integration failures across authentication, authorization, payload validation, rate limits, webhooks and platform errors.
 
 | Area | Scope |
 |---|---|
-| **Requests** | GET, POST, PATCH/PUT, DELETE |
-| **Topics** | Status codes, authentication, JSON payloads, rate limits, webhooks |
-| **Goal** | Diagnose and clearly document API-related customer issues |
-| **Status** | Next project |
+| **Request Lab** | GET, POST, PATCH and DELETE with endpoints, Bearer auth, JSON bodies and response inspection |
+| **HTTP** | 200/201/204 success paths plus 400, 401, 403, 404, 422, 429 and 500 troubleshooting |
+| **Authentication** | Bearer tokens, expired/revoked credentials and authentication vs. authorization |
+| **Rate Limits** | Quotas, response headers, Retry-After and backoff guidance |
+| **Webhooks** | Event creation, delivery attempt, receiver response and failure ownership |
+| **Challenges** | 6 interactive evidence-based diagnosis scenarios with next-step and ownership reasoning |
+| **Application** | Responsive React + TypeScript Developer Support console |
+| **Status** | ✅ Live portfolio project |
+
+**[→ Live Playground](https://api-support-playground.vercel.app/)** · **[View Repository →](https://github.com/sofialozano-cx/api-support-playground)**
 
 </details>
 
@@ -179,7 +185,7 @@ Customer-facing and internal support documentation covering troubleshooting guid
 | **Documentation** | Knowledge base articles, internal notes and runbooks |
 | **Operations** | Severity, priority, escalation and incident communication |
 | **Goal** | Make support knowledge clear, scalable and reusable |
-| **Status** | Planned |
+| **Status** | Next project |
 
 </details>
 
@@ -256,7 +262,7 @@ My academic path strengthens the technical side of my customer-operations backgr
 
 This profile is being built around practical evidence across technical support, support analytics, CRM operations and software engineering.
 
-**Published portfolio:** Technical Support Lab · Support Operations Analytics · SaaS Support Operations Case Study · CRM & Customer Lifecycle
+**Published portfolio:** Technical Support Lab · Support Operations Analytics · SaaS Support Operations Case Study · CRM & Customer Lifecycle · API Support Playground
 
 ---
 
@@ -274,9 +280,10 @@ published:
   - Support Operations Analytics
   - SaaS Support Operations Case Study
   - CRM & Customer Lifecycle
+  - API Support Playground
 
 building:
-  - API Support Playground
+  - Knowledge Base & Incident Management
 
 exploring:
   - Customer Experience + Technology
