@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312e81,50:6d28d9,100:7c3aed&text=Sofia%20Lozano&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Customer%20Experience%20%E2%80%A2%20Technical%20Support%20%E2%80%A2%20CRM%20%26%20Support%20Operations&descAlignY=58&descSize=17&animation=fadeIn" />
+# Sofia Lozano
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Bridging+Customer+Experience+and+Technology;Software+Engineering+Student;Customer-Focused+%E2%80%A2+Data-Aware+%E2%80%A2+Technology-Driven" alt="Typing SVG" />
+### Customer Experience · Technical Support · CRM & Support Operations
 
-<br/>
+**Software Engineering Student · Bridging Customer Experience & Technology**
 
 ![Brazil](https://img.shields.io/badge/Brazil-LATAM-6D28D9?style=flat-square)
 ![Remote](https://img.shields.io/badge/Open%20to-Remote%20Opportunities-4F46E5?style=flat-square)
@@ -241,12 +241,9 @@ My academic path strengthens the technical side of my customer-operations backgr
 
 ## GitHub Analytics
 
-<div align="center">
+Because this profile is new, meaningful repository and language analytics will become more representative as the technical portfolio is published.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sofialozano-cx&show_icons=true&hide_border=true&theme=midnight-purple" alt="Sofia's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofialozano-cx&layout=compact&hide_border=true&theme=midnight-purple" alt="Top languages" />
-
-</div>
+**Portfolio activity:** Technical Support · Support Analytics · CRM Operations · Software Engineering
 
 ---
 
@@ -289,7 +286,5 @@ open_to:
 <div align="center">
 
 **Building better customer experiences through communication, operations and technology.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312e81,50:6d28d9,100:7c3aed" />
 
 </div>
