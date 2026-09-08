@@ -133,18 +133,23 @@ An end-to-end fictional B2B SaaS incident case showing how independent webhook r
 
 </details>
 
-<details>
-<summary><b>CRM & Customer Lifecycle</b> — Segmentation, retention & lifecycle</summary>
+<details open>
+<summary><b>CRM & Customer Lifecycle</b> — Segmentation, retention & lifecycle automation</summary>
 <br/>
 
-A CRM-focused case study exploring the customer lifecycle from activation through engagement, risk, churn and reactivation.
+A fictional B2B SaaS Lifecycle Operations workspace connecting CRM records, lifecycle stages, customer health, engagement signals and account value to segmentation, retention and next-best actions.
 
 | Area | Scope |
 |---|---|
 | **Lifecycle** | Lead → Activated → Active → At Risk → Churned → Reactivated |
-| **Focus** | Segmentation, retention, customer journeys and CRM workflows |
-| **Goal** | Connect customer behavior with lifecycle actions |
-| **Status** | Planned |
+| **CRM Operations** | Customer records, health signals, owners, lifecycle stages and next-best actions |
+| **Segmentation** | High-value healthy/risk, activation opportunity, low engagement, promoters and win-back |
+| **Automation** | Trigger → Condition → Action lifecycle journeys |
+| **Retention** | Risk detection, exposed MRR, prioritization and intervention playbook |
+| **Application** | Responsive React + TypeScript Lifecycle Operations workspace |
+| **Status** | ✅ Live portfolio project |
+
+**[→ Live Workspace](https://crm-customer-lifecycle.vercel.app/)** · **[View Repository →](https://github.com/sofialozano-cx/crm-customer-lifecycle)**
 
 </details>
 
@@ -159,7 +164,7 @@ Practical exercises designed around the API knowledge commonly used in technical
 | **Requests** | GET, POST, PATCH/PUT, DELETE |
 | **Topics** | Status codes, authentication, JSON payloads, rate limits, webhooks |
 | **Goal** | Diagnose and clearly document API-related customer issues |
-| **Status** | Planned |
+| **Status** | Next project |
 
 </details>
 
@@ -251,7 +256,7 @@ My academic path strengthens the technical side of my customer-operations backgr
 
 This profile is being built around practical evidence across technical support, support analytics, CRM operations and software engineering.
 
-**Published portfolio:** Technical Support Lab · Support Operations Analytics · SaaS Support Operations Case Study
+**Published portfolio:** Technical Support Lab · Support Operations Analytics · SaaS Support Operations Case Study · CRM & Customer Lifecycle
 
 ---
 
@@ -268,9 +273,10 @@ published:
   - Technical Support Lab
   - Support Operations Analytics
   - SaaS Support Operations Case Study
+  - CRM & Customer Lifecycle
 
 building:
-  - CRM & Customer Lifecycle
+  - API Support Playground
 
 exploring:
   - Customer Experience + Technology
