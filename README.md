@@ -90,24 +90,27 @@ A hands-on portfolio lab covering realistic SaaS support scenarios: API authenti
 | **Topics** | HTTP, APIs, authentication, webhooks, browser diagnostics, RBAC, data validation |
 | **Support Practice** | Triage, reproduction, hypothesis testing, root-cause analysis, escalation and customer communication |
 | **Cases** | 6 documented investigations + reusable Support/Engineering templates |
-| **Status** | ✅ Active portfolio project |
+| **Status** | ✅ Active · 6 cases published |
 
 **[→ View Technical Support Lab](https://github.com/sofialozano-cx/technical-support-lab)**
 
 </details>
 
-<details>
-<summary><b>Support Operations Analytics</b> — Support metrics & decision-making</summary>
+<details open>
+<summary><b>Support Operations Analytics</b> — SQL, support KPIs & interactive dashboard</summary>
 <br/>
 
-A simulated support dataset used to investigate operational performance and turn customer-service data into actionable insights.
+A synthetic SaaS support dataset analyzed to identify operational bottlenecks and translate support metrics into prioritization decisions. The project includes SQL analysis and a responsive interactive dashboard deployed on Vercel.
 
 | Area | Scope |
 |---|---|
-| **Metrics** | CSAT, First Response Time, Resolution Time, SLA Compliance, Escalation Rate |
-| **Methods** | SQL, data cleaning, analysis, KPI interpretation and reporting |
-| **Goal** | Identify bottlenecks and improvement opportunities |
-| **Status** | Next project |
+| **Metrics** | CSAT, First Response Time, Resolution Time, SLA Compliance, Escalation Rate, Reopen Rate |
+| **Methods** | SQL, segmentation, KPI interpretation, operational diagnosis and data visualization |
+| **Dashboard** | Dynamic filters by category, channel and priority + context-aware operational signals |
+| **Evidence** | 60-ticket synthetic dataset, SQL queries, documented findings and live dashboard |
+| **Status** | ✅ Live portfolio project |
+
+**[→ Live Dashboard](https://support-operations-analytics.vercel.app/)** · **[View Repository →](https://github.com/sofialozano-cx/support-operations-analytics)**
 
 </details>
 
@@ -122,7 +125,7 @@ An end-to-end case study connecting customer pain points, support data, knowledg
 | **Business Problem** | Improve support quality and operational efficiency |
 | **Analysis** | Ticket drivers, SLA performance and root causes |
 | **Operations** | Escalation flows, knowledge management and process design |
-| **Status** | Planned |
+| **Status** | Next project |
 
 </details>
 
@@ -242,9 +245,9 @@ My academic path strengthens the technical side of my customer-operations backgr
 
 ## GitHub Analytics
 
-Because this profile is new, meaningful repository and language analytics will become more representative as the technical portfolio is published.
+This profile is being built around practical evidence across technical support, support analytics, CRM operations and software engineering.
 
-**Portfolio activity:** Technical Support · Support Analytics · CRM Operations · Software Engineering
+**Published portfolio:** Technical Support Lab · Support Operations Analytics
 
 ---
 
@@ -257,9 +260,12 @@ learning:
   - SQL & Support Analytics
   - CRM Operations
 
-building:
+published:
+  - Technical Support Lab
   - Support Operations Analytics
-  - SaaS Support Operations Portfolio
+
+building:
+  - SaaS Support Operations Case Study
 
 exploring:
   - Customer Experience + Technology
